@@ -3,6 +3,8 @@ Peer_to_Peer_Communication_Using_Flooding
 
 Used C language and worked on solaris cluster
 
+Project is done stage wise so dont think as a redundant code.
+
 Problem:
 Peer-to-peer based computing has been widely used at all levels such as to realize user-level
 applications, kernel-owned applications such as servers, and inter-connection between network routers
